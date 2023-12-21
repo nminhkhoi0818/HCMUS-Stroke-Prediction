@@ -6,10 +6,10 @@
 
 Class: 21KHDL1
 
-| #        | Full Name        |
-| -------- | ---------------- |
-| 21127081 | Nguyễn Minh Khôi |
-| 21127430 | Nguyễn Huy Thành |
+| Student's ID | Full Name        |
+| ------------ | ---------------- |
+| 21127081     | Nguyễn Minh Khôi |
+| 21127430     | Nguyễn Huy Thành |
 
 ### II. Introduction
 
