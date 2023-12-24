@@ -26,6 +26,6 @@ Class: 21KHDL1
 - **Question 2:** Which among age, average glucose level, and body mass index (BMI) shows the most significant connection to the probability of stroke?
 - **Question 3:** What is the impact of health-related factors on the proportion of strokes?
 - **Question 4:** How can we predict the probability of a person based on their personality and comorbidities?
-- Answers and conclustions: Please check the notebooks folder
+- Answers and conclutions: Please check the notebooks folder
 
 ### III. Team Planning
